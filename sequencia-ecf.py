@@ -23,3 +23,7 @@ def iniciar_app(): #função criada para iniciar a aplicação chamando outras f
     impressao_dados() #chamando função de impressão de dados
 
 iniciar_app()
+
+print("** Mini system **\n")
+print("Bem-vindo ao sistema do 1ºA\n")
+opcao_login = input("\nDigite 1 para fazer LOGIN e 2 ")
